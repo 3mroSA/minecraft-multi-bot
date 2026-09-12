@@ -1,0 +1,11 @@
+{
+  "ip": "hypixel.net",
+  "port": 22074,
+  "reconnect": true,
+  "minReconnectDelay": 2000,
+  "accounts": [
+    { "username": "notch", "auth": "offline" },
+    { "username": "jeb", "auth": "offline" },
+    { "username": "dinnerbone", "auth": "offline" }
+  ]
+}
