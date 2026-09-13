@@ -4,6 +4,8 @@ A Minecraft bot manager I made using Mineflayer. It lets you run multiple accoun
 
 You can spawn as many accounts as you have in your config, then choose whether commands run on all bots, one bot, or whichever bots you've selected.
 
+Keep in mind that unless Mineflayer updates their protocol, this only works on servers supporting `1.21.11` and below. It might work on `26.1.2` but I haven't tested it.
+
 ## Requirements
 
 * Node.js (v18+ recommended)
